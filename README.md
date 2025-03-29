@@ -1,4 +1,4 @@
-```markdown
+
 # Space Habitat AI Command Center
 
 A sophisticated command and control system for managing space habitat operations, monitoring critical systems, and ensuring crew safety.
